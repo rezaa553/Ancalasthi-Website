@@ -1,0 +1,13 @@
+list emas: 			#CEAE4A
+					rgb(206, 174, 74)
+
+hijau background:	#464805
+					rgb(70, 72, 5)
+
+
+cokelat tanah: 		#918350
+					rgb(145, 131, 80)
+
+putih: 				#FCFCFB
+					rgb(252, 252, 251)
+
